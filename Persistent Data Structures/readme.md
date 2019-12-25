@@ -2,6 +2,7 @@ Persistent Data structures implementation in C language.
 Both partially and fully persistent data structures.
 
 par- partial persistent
+
 full- Fully persistent
 
 1)	lists - Singly, circular and doubly linked lists.
