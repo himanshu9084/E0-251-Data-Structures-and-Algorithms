@@ -1,7 +1,9 @@
 File Structure :
 
 files/dn	-	dense graphs
+
 files/sp	-	Sparse graphs
+
 files/nc	-	not connected graphs, large component
 
 graph_generate  -	Code to generate random graph using Erdos Renyl Model
@@ -28,16 +30,27 @@ How to run :
    Result will be generated in respective file paths, and time taken will be s
 
 4) For not connected graph
-	Step 1 : run first connect.c using to generate largest component
-		 gcc connect.c -o connect
-		 ./connect.c
-	Step 2	: run makefile for the largest component obtained through
-	          connect.c
-	Step 3	: Merge data of connect.c and makefile using
-		  gcc mergedata.c -o merge
-		  ./merge
+	
+Step 1 : run first connect.c using to generate largest component
+		 
+gcc connect.c -o connect
+		 
+./connect.c
+	
+Step 2	: run makefile for the largest component obtained through
+	          
+connect.c
+	
+Step 3	: Merge data of connect.c and makefile using
+		  
+gcc mergedata.c -o merge
+		  
+./merge
 
 5) For Generating plots
-	run graph_plot.py
-	press 1 for sparse graph
-	press 2 for dense graph
+	
+run graph_plot.py
+	
+press 1 for sparse graph
+	
+press 2 for dense graph
