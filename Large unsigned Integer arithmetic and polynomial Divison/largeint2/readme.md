@@ -3,8 +3,11 @@
 
 	Step 1 : 
 		For integer addition press 2
+
 		For integer multiplication press 3
+
 		For integer output and input press 0
+
 		For infix expression press 4 press any number but not 0.
 	
 	Step 2 :
