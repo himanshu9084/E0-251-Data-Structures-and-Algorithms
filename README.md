@@ -1,6 +1,8 @@
 # E0-251-Data-Structures-and-Algorithms
 E0 251 Data Structures and Algorithms course is offered by Department of Computer Science and automation, Indian Institute of Science, Bangalore. 
 
+<b>Kindly, Do not use the code.</b> 
+
 E0 251 Data Structures and Algorithms, CSA, IISc Bangalore
 - Solved Assignments for Aug 2019 Course
 1)  Sparse Data Structures(Matrices), COO, CSR, CSC Format
