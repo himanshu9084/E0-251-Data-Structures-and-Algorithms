@@ -7,11 +7,9 @@ E0 251 Data Structures and Algorithms, CSA, IISc Bangalore
 - Solved Assignments for Aug 2019 Course
 *     Sparse Data Structures(Matrices), COO, CSR, CSC Format
 *     a)  Large unsigned integer arithmetic
-
       b)  Polynomial division
 *     Computing Betweenness Centrality in an Undirected Graph using Floyd Warshall and BFS algo
 *     a)  Persistent Data Structures
-
       b)  Solving a maze using persistent stack
 *     User defined malloc and free
 
